@@ -1,3 +1,8 @@
+A quick attempt at uncovering the biggest pain points and opportunities for popular apps using publicly available qualitative feedback. I used AppStore Reviews and Subreddit posts, but this could be easily extended to collect data from several more sources such G2, Trustpilot, Twitter/X, etc.
+
+Here's an example output for CapCut - a popular video editing tool. This insight synthesis took less than 2 hours end to end. I included histograms to contextualize the extent of each pain point. 
+[https://slides.com/amityalwar/capcut](https://slides.com/amityalwar/capcut/fullscreen)
+ 
 # Feedback Analyzer
 
 This repository contains scripts to collect and analyze customer feedback for specific products from Reddit and the App Store. It helps in identifying key customer pain points and generating insights from user reviews.
