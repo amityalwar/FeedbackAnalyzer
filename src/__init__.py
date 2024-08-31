@@ -1,0 +1,4 @@
+from .reddit_feedback import fetch_subreddit_posts, save_to_excel as save_reddit_data
+from .appstore_feedback import fetch_app_reviews, save_to_excel as save_appstore_data
+from .plot_histogram_app_reviews import generate_histogram
+from .plot_histogram_reddit import generate_reddit_histogram

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Excel files
+*.xlsx
+
+# SVG files
+*.svg
+
+# Environment variables
+.env
