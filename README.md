@@ -19,7 +19,7 @@ This repository contains scripts to collect and analyze customer feedback for sp
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/FeedbackAnalyzer.git
+   git clone https://github.com/amityalwar/FeedbackAnalyzer.git
    cd FeedbackAnalyzer
    ```
 
